@@ -2,9 +2,13 @@ import React from 'react'
 
 function App() {
   return (
-    <div>
-      <h1>this is my first react code</h1>
-    </div>
+   <>
+   <div>
+    <h1>This is my first react code </h1>
+    <h1>this is my second code </h1>
+   </div>
+   
+   </>
   )
 }
 
